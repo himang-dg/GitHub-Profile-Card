@@ -18,8 +18,8 @@ A **GitHub Profile Viewer** built with **Next.js 16** (App Router), **Tailwind C
       </a>
     </td>
     <td align="center">
-      <a href="https://trakteer.id/himang/tip" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=13013&format=png&color=000000" width="52" height="40" alt="Trakteer" />
+      <a href="https://tako.id/himang" target="_blank">
+        <img src="https://img.icons8.com/?size=100&id=13013&format=png&color=000000" width="52" height="40" alt="Tako" />
       </a>
     </td>
   </tr>
