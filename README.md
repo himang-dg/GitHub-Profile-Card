@@ -88,8 +88,8 @@ A **GitHub Profile Viewer** built with **Next.js 16** (App Router), **Tailwind C
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/himang-dg/GitHub-Profile.git
-   cd GitHub-Profile
+   git clone https://github.com/himang-dg/GitHub-Profile-Card.git
+   cd GitHub-Profile-Card
    ```
 
 2. Install dependencies:
