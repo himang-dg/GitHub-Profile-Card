@@ -4,11 +4,7 @@
 
 A **GitHub Profile Viewer** built with **Next.js 16** (App Router), **Tailwind CSS v4**, and **TypeScript**. Featuring a premium **iOS Glassmorphism Dark Mode** UI with animated backgrounds, glass cards, glow effects, and fully responsive layout.
 
-<p align="center">
-  <a href="https://github.com/himang-dg/GitHub-Profile">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himang-dg&repo=GitHub-Profile&theme=tokyonight" alt="GitHub Repo Card">
-  </a>
-</p>
+
 
 ---
 
